@@ -1346,7 +1346,7 @@
     "core.login.siteaddress": "Site address",
     "core.login.siteinmaintenance": "Your site is in maintenance mode",
     "core.login.sitepolicynotagreederror": "Site policy not agreed.",
-    "core.login.siteurl": "Site URL",
+    "core.login.siteurl": "http://allinoneclasses.com",
     "core.login.siteurlrequired": "Site URL required, i.e <i>http://www.yourmoodlesite.abc or https://www.yourmoodlesite.efg</i>",
     "core.login.startsignup": "Create new account",
     "core.login.stillcantconnect": "Still can't connect?",
